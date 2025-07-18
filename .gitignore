@@ -1,0 +1,13 @@
+
+---
+
+### ✅ Step 2: (Optional) Create `.gitignore`
+
+If you want to avoid committing things like `__pycache__/`, here’s a common `.gitignore`:
+
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
